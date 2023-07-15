@@ -1,4 +1,4 @@
-# Sorting_Algo_visulize
+# Visulaising_sorting_algos
 <p align="center">
 A web application showcasing the inner workings of sorting algorithms.
 
